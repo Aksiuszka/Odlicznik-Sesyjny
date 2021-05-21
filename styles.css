@@ -1,0 +1,23 @@
+body {
+    background-color: coral;
+    color: white;
+    font-family:'Leckerli One', cursive;;
+}
+
+.plansza0{
+    display: flex;
+    justify-content: center;
+    margin-top:200px;
+}
+
+.plansza1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#naglowek{
+    font-family: 'Hachi Maru Pop', cursive;
+
+}
+
